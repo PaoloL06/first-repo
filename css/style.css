@@ -1,0 +1,13 @@
+.classTester {
+    font-size: 200%;
+    font-family: 'The Nautigal', cursive;
+}
+h2 {
+    color: lightgrey;
+    text-shadow: 0px 0px 3px black;
+    font-size: 300%;
+ }
+ul {
+    color: cadetblue;
+    font-size: 120%;
+}
